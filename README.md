@@ -1,2 +1,2 @@
-# Learning JavaScript with basic Projects
+## Learning JavaScript with basic Projects
 1. Random Jokes Generator using Fetch API
